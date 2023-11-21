@@ -23,6 +23,7 @@ print_usage() {
     echo " -ml,  --mountain-lion       Fetch Mountain Lion media"
     echo " -l,   --lion                Fetch Lion media"
     echo
+    exit 0
 }
 
 error() {
